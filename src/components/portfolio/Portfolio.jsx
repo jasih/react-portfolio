@@ -5,6 +5,7 @@ import IMG2 from '../../assets/schema_design.png'
 import IMG3 from '../../assets/twitter_api.png'
 import IMG4 from '../../assets/spotify_api.png'
 import IMG5 from '../../assets/project_man.png'
+import IMG6 from '../../assets/react_portfolio.png'
 
 const data = [
   {
@@ -36,6 +37,12 @@ const data = [
     image: IMG5,
     title: 'Project Management App',
     github: 'https://github.com/jasih/project-management-app'
+  },
+  {
+    id: 6,
+    image: IMG6,
+    title: 'React Portfolio',
+    github: 'https://github.com/jasih/react-portfolio'
   },
 ]
 
