@@ -15,7 +15,7 @@ In the project directory, you can run:
 ---
 ## Links
 
-[View My Portfolio Here](https://react-portfolio-oojujwlis-jasih.vercel.app/)
+[View My Portfolio Here](https://react-portfolio-jasih.vercel.app/)
 
 ## Screenshots
 
