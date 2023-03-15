@@ -38,17 +38,13 @@ const About = () => {
           </div>
 
           <p>
-            Hi, I'm Janet and I graduated from the University of Memphis in December of 2021 with a bachelors in Computer Science.
-            Originally starting out as an art major, I've always wanted to take my artistic abilities to the next level. At an early age,
-            I was always inspired by animes I watched with my cousins. And during that time, my interest in technology
-            grew when my uncle bought me my first Dell laptop. I remember playing Minecraft, watching youtube, or even just browsing
-            the Internet together with my family. Since then, I transitioned into computer science after one of my cousins told me it 
-            would be a great opportunity for me since there weren't many women in this field. So, I took him up on that offer and decided to 
-            delve into the world of tech. I later joined his club called the Association for Computing Machinery or the ACM for short. There, 
-            I met many great developers who helped me learn the fundamentals of Java and Python, and we also particated in a hackathon together. 
-            And so, as I continued my journey in tech, my love for software development grew, and I got into a Full Stack Development program at CookSystems,
-            which helped me develop skills such as learning new technologies and even how to act in a professional setting. Now, after having
-            many great opportunities and experiences, I've been developing my skills and chasing my passions even further.  
+            Hi, I'm Janet and I graduated from the University of Memphis with a bachelors in Computer Science.
+            Throughout my studies, academic clubs such as the ACM (Association for Computing Machinery), and through my 
+            Full Stack Development program at Cook Systems, I have gained experience in working with a team through agile/scrum methodologies, 
+            as well as having experience in concentrated Java frameworks, SQL databases, and developing web applications using Spring, React, 
+            HTML/CSS, and Javascript. With the help of many great developers who later became lifelong friends, I also gained the knowledge
+            and ability to adapt, develop and hone my skills in programming, and gained the confidence to see myself as a software developer.
+            I am a passionate learner who uses technology as a tool for success.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

@@ -30,7 +30,8 @@ const data = [
     id: 4,
     image: IMG4,
     title: 'Spotify Guessing Game',
-    github: 'https://github.com/jasih/spotify-guessing-game'
+    github: 'https://github.com/jasih/spotify-guessing-game',
+    demo: 'https://spotify-game.vercel.app/'
   },
   {
     id: 5,
